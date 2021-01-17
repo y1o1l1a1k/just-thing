@@ -1,0 +1,254 @@
+.nav-a {
+	font-size: 22px;
+
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 20px;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.layout_2 {
+	display: inline-block;
+	margin: 10px;
+}
+.layout_1 {
+	display: inline-block;
+}
+.layout_3 {
+	font-size: 22px;
+	display: inline-block;
+	margin: 10px;
+}
+
+.layout_4 {
+	font-size: 22px;
+	display: inline-block;
+	margin: 10px;
+
+}
+.layout_5 {
+	margin-top: 21.1px;
+	margin-bottom: 30.6px;
+}
+.fb {
+	margin-bottom: 29.4px;
+	margin-left: 30px;
+	margin-top: 40px;
+	display: inline-block;
+}
+.youtube {
+	margin-left: 30px;
+	margin-right: 1231.4px;
+	margin-bottom: 29.4px;
+	margin-top: 40px;
+	display: inline-block;
+
+}
+.date-1 {
+	width: 56px;
+	height: 56px;
+	font-size: 48px;
+	background-color: #3D58A6;
+	color: white;
+	margin-top: 36.1px;
+	padding-top: 8px;
+	padding-left: 5px;
+	margin-left: 34px;
+	margin-bottom: 2px;
+}
+.title-1 {
+	font-size: 22px;
+	margin-top: 2px;
+	padding-left: 34px;
+	padding-right: 1269px;
+	margin-bottom: 13.5px;
+	color: #3D58A6;
+
+}
+.title-2 {
+	font-size: 20px;
+	margin-top: 13.5px;
+	padding-left: 34px;
+	padding-right: 589px;
+	margin-bottom: 17.5px;
+}
+.image-1 {
+	margin-top: 17.5px;
+	margin-bottom: 27.5px;
+	margin-left: 34px;
+}
+.title-3 {
+	margin-top: 17.5px; 
+	margin-bottom: 23px;
+	padding-left: 34px; 
+	padding-right: 186px;
+	font-size: 16px;
+
+}
+
+.title-4 {
+	font-size: 16px;
+	margin-top: 23px;
+	margin-bottom: 23px;
+	padding-right: 186px;
+	padding-left: 34px;
+
+}
+
+.title-5 {
+	font-size: 16px;
+	margin-top: 23px
+	margin-bottom: 4.5px;
+	padding-right: 186px;
+	padding-left: 34px;
+}
+.section1 {
+	font-size: 20px;
+	color: #3D58A6;
+}
+.section2 {
+	font-size: 16px;
+	color: black;
+
+}
+.section3 {
+	font-size: 16px;
+	color: #808080;
+}
+.fb1 {
+	margin-right: 65.8px;
+	margin-top: 510.8px;
+	padding-bottom: 29.4px;
+	padding-left: 30px;
+}
+
+.fb2 {
+	margin-top: : 50px;
+	margin-left: 30px;
+
+}
+.youtube2 {
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.left-block {
+	display: inline-block;
+	background-color: #F2F2F2;
+	width: 570px;
+	margin-right: 29px;
+}
+.group10 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.group11 {
+	display: inline-block;
+	width: 355px;
+}
+.header-block {
+	padding: 10px;
+}
+.right-block {
+	display: inline-block;
+	background-color: #F2F2F2;
+	width: 570px;
+}
+.feature-header {
+	margin-bottom: 10px;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.title-block {
+	display: inline-block;
+	width: 929.02px;
+	vertical-align: top;
+
+}
+.image-block {
+	display: inline-block;
+	width: 270px;
+	vertical-align: top;
+	margin-right: 30px; 
+}
+.section4 {
+	background-color: #E6E6E6;
+}
+.sectionleftblock {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 63.7px;
+	margin-left: 97.3px;
+	padding-top: 51.5px;
+
+}
+.sectionrightblock {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 39px;
+	padding-bottom: 66.5px;
+	padding-right: 95.5px;
+
+}
+.kartuli-absoluturi {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-size: 22px;
+	color: #EE4036;
+	letter-spacing: 1px;
+}
+.kartuli-absoluturi2 {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.kartuli-relatiuri {
+	font-family: 'BPG Nino Mtavruli';
+	font-size: 20px;
+	color: #000000;
+	text-indent: 34px;
+}
+.kartuli-relatiuri2 {
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	color: #000000;
+	text-indent: 34px;
+	margin-left: 34px;
+	margin-top: 23px;
+}
+.latinuri-relatiuri {
+	font-family: 'Roboto';
+	font-size: 16px;
+	color: #000000;
+	text-indent: 34px;
+	margin-left: 34px;
+	margin-top: 23px;
+	text-transform: capitalize;
+}
+.latinuri-absoluturi {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #000000;
+	text-indent: 34px;
+	margin-left: 34px;
+	margin-top: 23px;
+	text-transform: capitalize;
+}
+.fb::after {
+	content: ' ';
+	width: 2px;
+	height: 27px;
+	background-color: #3D58A6;
+	display: inline-block;
+	margin-left: 20px;
+}

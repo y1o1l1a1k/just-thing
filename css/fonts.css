@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'BPG Nino Mtavruli';
+    src: url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/ninomtavruli/bpg-nino-mtavruli-webfont.svg#bpg_nino_mtavruliregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'BPG Ingiri Arial';
+    src: url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/ingiriarial/bpg-ingiri-arial-webfont.svg#bpg_ingiri_arialregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/roboto/Roboto-BoldItalic.eot');
+    src: url('../fonts/roboto/Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/roboto/../fonts/roboto/Roboto-BoldItalic.woff2') format('woff2'),
+        url('../fonts/roboto/Roboto-BoldItalic.woff') format('woff'),
+        url('../fonts/roboto/Roboto-BoldItalic.ttf') format('truetype'),
+        url('../fonts/roboto/Roboto-BoldItalic.svg#Roboto-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
